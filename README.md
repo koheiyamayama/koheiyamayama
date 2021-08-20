@@ -29,7 +29,7 @@ Languages, frameworks, and other software that I work with include
   - etc.
 - Terraform
 
-My hobbies and languages are as follows
+I use the following languages as hobbies
 - Elixir/Phoenix
 - Crystal
 - Rust
