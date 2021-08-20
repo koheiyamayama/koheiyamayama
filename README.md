@@ -42,7 +42,7 @@ Thank you for reading.
 
 
 #### Job History
-#### English(Translated with www.DeepL.com/Translator (free version))
+##### English(Translated with www.DeepL.com/Translator (free version))
 - June 2021~Present.
 Will be assigned to a team responsible for system re-architecture, departmental operations maintenance, and data infrastructure renewal.
 
