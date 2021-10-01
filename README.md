@@ -61,6 +61,12 @@ Responsible for the training of 20 new graduate engineers. Formulated the overal
 - October 2019~December 2019.
 Responsible for expanding the functions used by the administrators of the service. Mainly developed integration with email sending services.
 
+- April 2019
+Joining LITALICO, Inc.(full-time employee)
+
+- April 2017
+Joining LITALICO, Inc.(Intern)
+
 - Other.
   - Responsible for updating the version of Redis.
   - Responsible for updating Ruby 2.4.3 to 2.7.2.
@@ -86,6 +92,10 @@ Webサービスのグロースに関わる開発を担当。チーム内で開�
 
 - 2019年10月~2019年12月。
 サービスの管理者が利用する機能の拡充を担当。メール送信サービスとの連携を主に開発した。
+
+- 2019年4月株式会社LITALICO入社(正社員)
+
+- 2017年4月株式会社LITALICO入社(インターン)
 
 - その他
   - Redisのバージョンアップデートを担当。
