@@ -1,25 +1,9 @@
 ### Hi there 👋
-
-<!--
-**koheiyamayama/koheiyamayama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Self Introduction
-I have been working at LITALICO Corporation since April 2017 until now.
-Languages, frameworks, and other software that I work with include
-- Ruby/Ruby on Rails
-- TypeScript/React
+以下の言語 / フレームワーク / クラウドサービス等を使った実務経験があります。
+- Ruby / Ruby on Rails
+- TypeScript / React
+- AWS
 - AWS
   - ECS on Fargate
   - EC2
@@ -28,57 +12,38 @@ Languages, frameworks, and other software that I work with include
   - Application Load Balancer
   - etc.
 - Terraform
+- Go
+- GraphQL
+- gRPC
+- MySQL
 
-I use the following languages as hobbies
-- Elixir/Phoenix
+
+趣味として以下の技術を使ったことがあります。
+- Elixir/Phoenixl
 - Crystal
 - Rust
 - Next.js
-- etc.
-
-I would like to be involved in various OSS in the future.
-
-Thank you for reading.
 
 
-#### Job History
-##### English(Translated with www.DeepL.com/Translator (free version))
-- June 2021~Present.
-Will be assigned to a team responsible for system re-architecture, departmental operations maintenance, and data infrastructure renewal.
+### 業務履歴
+- 2022年10月~現在
+某企業でシェフ向けのSaas開発に従事する。
+主な業務内容は以下の通り。
+- Goを用いたサーバーサイド開発
+- AWSを用いたインフラ構成管理
+- 開発環境整備等
 
-- October 2020 ~ May 2021.
-Responsible for development related to the growth of web services. Development costs are high in the team, but the team is mainly developing functions that are necessary in the medium term.
+- 2022年6月~現在
+合同会社DMM.comで動画配信サービスの開発に従事する。
+主な業務は以下の通り。
+- Locustを用いた負荷試験シナリオの追加、レビュー、プロジェクトの管理
+- Go / glqlgenを用いたBFFサーバーの実装、スキーマ設計等
 
-- July 2020~October 2020.
-I was using AWS ElasticBeanstalk for the service I was in charge of, but due to circumstances within the team, I proposed to use AWS Fargate and was in charge of switching the operation. I did it all by myself with the help of former senior employees.
+- 2021年12月~2022年5月
+株式会社delyにて、kurashiru deliveryの開発に従事する。
+主にサーバサイド / クラウドサービスを用いたインフラ設計、実装などを担当する。
 
-- Feb. 2020 ~ Jul. 2020.
-I was in charge of a major renewal of the site's main pages. I was in charge of the major renewal of the site's main pages, including the site's submission function and the main pages on the user side.
-
-- January 2020 - June 2020.
-Responsible for the training of 20 new graduate engineers. Formulated the overall objectives of the training, set milestones, created the curriculum, and mentored the trainees until they graduated.
-
-- October 2019~December 2019.
-Responsible for expanding the functions used by the administrators of the service. Mainly developed integration with email sending services.
-
-- April 2019
-Joining LITALICO, Inc.(full-time employee)
-
-- April 2017
-Joining LITALICO, Inc.(Intern)
-
-- Other.
-  - Responsible for updating the version of Redis.
-  - Responsible for updating Ruby 2.4.3 to 2.7.2.
-  - Responsible for updating Terraform from 0.12.28 to 0.13.0.
-  - Maintained application server logs using CloudWatchLogs Insight.
-
-
-##### 日本語
-- 2021年6月~現在。
-システムのリアーキテクチャ、部内のオペレーション整備、データ基盤の刷新などを担当するチームに配属予定。
-
-- 2020年10月~2021年5月。
+- 2020年10月~2021年11月。
 Webサービスのグロースに関わる開発を担当。チーム内で開発コストが高いが、中期で見ると必要な機能を主に開発している。
 
 - 2020年7月~2020年10月。
